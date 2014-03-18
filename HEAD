@@ -1,0 +1,16 @@
+commit 02e8929ad300bdfdf991d7debd57aba85af53b36
+Author: Dana Loutey <deloutey@gmail.com>
+Date:   Tue Mar 18 09:42:44 2014 -0700
+
+    Third commit
+
+diff --git a/script.py b/script.py
+index f95f2f6..f35aca4 100644
+--- a/script.py
++++ b/script.py
+@@ -5,3 +5,5 @@ Read data file
+ Run analysis
+ 
+ Make table
++
++Make small figure
